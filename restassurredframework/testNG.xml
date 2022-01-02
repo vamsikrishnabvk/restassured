@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="restassuredframework">
+<test name="infotest">
+<classes>
+<class name="com.info.testcases.Testcaseget"/>
+<class name="com.info.testcases.Singlegetuser"/>
+<class name="com.info.testcases.Postdata"/>
+<class name="com.info.testcases.Putdata"/>
+</classes>
+</test>
+</suite>

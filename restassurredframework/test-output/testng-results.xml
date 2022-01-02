@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-03T16:08:38 IST" name="restassuredframework" finished-at="2021-11-03T16:08:55 IST" duration-ms="16829">
+    <groups>
+    </groups>
+    <test started-at="2021-11-03T16:08:38 IST" name="infotest" finished-at="2021-11-03T16:08:55 IST" duration-ms="16829">
+      <class name="com.info.testcases.Putdata">
+        <test-method is-config="true" signature="postinfo()[pri:0, instance:com.info.testcases.Putdata@441772e]" started-at="2021-11-03T16:08:48 IST" name="postinfo" finished-at="2021-11-03T16:08:55 IST" duration-ms="7062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postinfo -->
+        <test-method signature="checkreposnsebody()[pri:0, instance:com.info.testcases.Putdata@441772e]" started-at="2021-11-03T16:08:55 IST" name="checkreposnsebody" finished-at="2021-11-03T16:08:55 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkreposnsebody -->
+        <test-method signature="checkstatuscode()[pri:0, instance:com.info.testcases.Putdata@441772e]" started-at="2021-11-03T16:08:55 IST" name="checkstatuscode" finished-at="2021-11-03T16:08:55 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatuscode -->
+      </class> <!-- com.info.testcases.Putdata -->
+      <class name="com.info.testcases.Testcaseget">
+        <test-method is-config="true" signature="getinfodata()[pri:0, instance:com.info.testcases.Testcaseget@5f058f00]" started-at="2021-11-03T16:08:38 IST" name="getinfodata" finished-at="2021-11-03T16:08:41 IST" duration-ms="2496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getinfodata -->
+        <test-method signature="checkreposnsebody()[pri:0, instance:com.info.testcases.Testcaseget@5f058f00]" started-at="2021-11-03T16:08:41 IST" name="checkreposnsebody" finished-at="2021-11-03T16:08:41 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkreposnsebody -->
+        <test-method signature="checkstatuscode()[pri:0, instance:com.info.testcases.Testcaseget@5f058f00]" started-at="2021-11-03T16:08:41 IST" name="checkstatuscode" finished-at="2021-11-03T16:08:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatuscode -->
+      </class> <!-- com.info.testcases.Testcaseget -->
+      <class name="com.info.testcases.Singlegetuser">
+        <test-method is-config="true" signature="getinfodata()[pri:0, instance:com.info.testcases.Singlegetuser@40ef3420]" started-at="2021-11-03T16:08:41 IST" name="getinfodata" finished-at="2021-11-03T16:08:41 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getinfodata -->
+        <test-method signature="checkreposnsebody()[pri:0, instance:com.info.testcases.Singlegetuser@40ef3420]" started-at="2021-11-03T16:08:41 IST" name="checkreposnsebody" finished-at="2021-11-03T16:08:41 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkreposnsebody -->
+        <test-method signature="checkstatuscode()[pri:0, instance:com.info.testcases.Singlegetuser@40ef3420]" started-at="2021-11-03T16:08:41 IST" name="checkstatuscode" finished-at="2021-11-03T16:08:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatuscode -->
+      </class> <!-- com.info.testcases.Singlegetuser -->
+      <class name="com.info.testcases.Postdata">
+        <test-method is-config="true" signature="postinfo()[pri:0, instance:com.info.testcases.Postdata@dbf57b3]" started-at="2021-11-03T16:08:41 IST" name="postinfo" finished-at="2021-11-03T16:08:48 IST" duration-ms="7083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postinfo -->
+        <test-method signature="checkreposnsebody()[pri:0, instance:com.info.testcases.Postdata@dbf57b3]" started-at="2021-11-03T16:08:48 IST" name="checkreposnsebody" finished-at="2021-11-03T16:08:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkreposnsebody -->
+        <test-method signature="checkstatuscode()[pri:0, instance:com.info.testcases.Postdata@dbf57b3]" started-at="2021-11-03T16:08:48 IST" name="checkstatuscode" finished-at="2021-11-03T16:08:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatuscode -->
+      </class> <!-- com.info.testcases.Postdata -->
+    </test> <!-- infotest -->
+  </suite> <!-- restassuredframework -->
+</testng-results>
